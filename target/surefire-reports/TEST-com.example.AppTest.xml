@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.example.AppTest" time="0.005" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.example.AppTest" time="0.006" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="gnome"/>
     <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
     <property name="java.specification.version" value="11"/>
     <property name="sun.cpu.isalist" value=""/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
-    <property name="java.class.path" value="/home/qwerty/devops/MyMavenApp/target/test-classes:/home/qwerty/devops/MyMavenApp/target/classes:/home/qwerty/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:"/>
+    <property name="java.class.path" value="/home/rajath/devops/MyMavenApp/target/test-classes:/home/rajath/devops/MyMavenApp/target/classes:/home/rajath/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:"/>
     <property name="java.vm.vendor" value="Ubuntu"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.vendor.url" value="https://ubuntu.com/"/>
@@ -16,36 +16,36 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-11-openjdk-amd64/lib"/>
-    <property name="sun.java.command" value="/home/qwerty/devops/MyMavenApp/target/surefire/surefirebooter8387422365764250722.jar /home/qwerty/devops/MyMavenApp/target/surefire 2026-02-25T14-35-19_209-jvmRun1 surefire2260778907485075990tmp surefire_05710375487801949970tmp"/>
+    <property name="sun.java.command" value="/home/rajath/devops/MyMavenApp/target/surefire/surefirebooter17714669909493810382.jar /home/rajath/devops/MyMavenApp/target/surefire 2026-03-17T23-12-21_382-jvmRun1 surefire934146714960790964tmp surefire_06130570791614422264tmp"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="/home/qwerty/devops/MyMavenApp/target/test-classes:/home/qwerty/devops/MyMavenApp/target/classes:/home/qwerty/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:"/>
+    <property name="surefire.test.class.path" value="/home/rajath/devops/MyMavenApp/target/test-classes:/home/rajath/devops/MyMavenApp/target/classes:/home/rajath/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
-    <property name="user.home" value="/home/qwerty"/>
+    <property name="user.home" value="/home/rajath"/>
     <property name="user.language" value="en"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="java.version.date" value="2026-01-20"/>
     <property name="java.home" value="/usr/lib/jvm/java-11-openjdk-amd64"/>
     <property name="file.separator" value="/"/>
-    <property name="basedir" value="/home/qwerty/devops/MyMavenApp"/>
+    <property name="basedir" value="/home/rajath/devops/MyMavenApp"/>
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="/home/qwerty/devops/MyMavenApp/target/surefire/surefirebooter8387422365764250722.jar"/>
+    <property name="surefire.real.class.path" value="/home/rajath/devops/MyMavenApp/target/surefire/surefirebooter17714669909493810382.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.30+7-post-Ubuntu-1ubuntu122.04"/>
-    <property name="user.name" value="qwerty"/>
+    <property name="user.name" value="rajath"/>
     <property name="path.separator" value=":"/>
-    <property name="os.version" value="6.8.0-101-generic"/>
+    <property name="os.version" value="6.8.0-106-generic"/>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="file.encoding" value="UTF-8"/>
     <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
-    <property name="localRepository" value="/home/qwerty/.m2/repository"/>
+    <property name="localRepository" value="/home/rajath/.m2/repository"/>
     <property name="java.vendor.url.bug" value="https://bugs.launchpad.net/ubuntu/+source/openjdk-lts"/>
     <property name="java.io.tmpdir" value="/tmp"/>
     <property name="java.version" value="11.0.30"/>
-    <property name="user.dir" value="/home/qwerty/devops/MyMavenApp"/>
+    <property name="user.dir" value="/home/rajath/devops/MyMavenApp"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/>
