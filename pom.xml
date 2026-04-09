@@ -50,7 +50,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>com.example.Main</mainClass>
+<mainClass>com.example.MainClass</mainClass>
             </manifest>
           </archive>
         </configuration>
